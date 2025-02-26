@@ -1,4 +1,4 @@
-# Gomoku AI
+# Gomoku AI (Group project : 3 people, myself included)
 
 A Python implementation of the Gomoku game (Five in a Row) with an AI opponent using the Minimax algorithm with alpha-beta pruning.
 
